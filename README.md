@@ -6,10 +6,12 @@ You should also define the CubeRoot function in python script before executing t
 
 Acknowledgement
 
-
-    If you are using these equations (symbolic expressions) in your research please cite the following paper: 
+If you are using these equations (symbolic expressions) in your research please cite the following paper: 
 Anđelić, N., & Baressi Šegota, S. (2023). Generating Mathematical Expressions for Estimation of Atomic Coordinates of Carbon Nanotubes Using Genetic Programming Symbolic Regression. Technologies, 11(6), 185.
+
+
 Bibtex format: 
+
 @article{andjelic2023generating,
   title={Generating Mathematical Expressions for Estimation of Atomic Coordinates of Carbon Nanotubes Using Genetic Programming Symbolic Regression},
   author={An{\dj}eli{\'c}, Nikola and Baressi {\v{S}}egota, Sandi},
